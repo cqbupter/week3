@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1383463782 source:c:\users\zhyb\documents\cpp code\week3\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+
